@@ -1,0 +1,10 @@
+/home/matteo/Scrivania/sky observer/bin/Debug/netcoreapp2.0/sky observer.deps.json
+/home/matteo/Scrivania/sky observer/bin/Debug/netcoreapp2.0/sky observer.runtimeconfig.json
+/home/matteo/Scrivania/sky observer/bin/Debug/netcoreapp2.0/sky observer.runtimeconfig.dev.json
+/home/matteo/Scrivania/sky observer/bin/Debug/netcoreapp2.0/sky observer.dll
+/home/matteo/Scrivania/sky observer/bin/Debug/netcoreapp2.0/sky observer.pdb
+/home/matteo/Scrivania/sky observer/obj/Debug/netcoreapp2.0/sky observer.csproj.CoreCompileInputs.cache
+/home/matteo/Scrivania/sky observer/obj/Debug/netcoreapp2.0/sky observer.AssemblyInfoInputs.cache
+/home/matteo/Scrivania/sky observer/obj/Debug/netcoreapp2.0/sky observer.AssemblyInfo.cs
+/home/matteo/Scrivania/sky observer/obj/Debug/netcoreapp2.0/sky observer.dll
+/home/matteo/Scrivania/sky observer/obj/Debug/netcoreapp2.0/sky observer.pdb
